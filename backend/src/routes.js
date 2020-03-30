@@ -1,5 +1,5 @@
 const express = require('express');
-const { celebrate, Segments, Joi  } = require('celebrate');
+const { celebrate, Segments, Joi } = require('celebrate');
 const crypto = require('crypto');
 
 const OngController = require('./controllers/OngController');
